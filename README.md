@@ -13,10 +13,10 @@ Sistem web full-stack pentru gestionarea reclamațiilor IT interne ale unei comp
 - Swagger
 
 **Frontend**
-- React 18 (Vite)
-- React Router v6
-- Axios / Fetch API
-- CSS Modules
+- React 19 (Vite)
+- Recharts
+- Lucide React
+
 
 ---
 
