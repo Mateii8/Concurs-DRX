@@ -1,0 +1,6 @@
+@ProiectDRX_HostAddress = http://localhost:5147
+
+GET {{ProiectDRX_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
