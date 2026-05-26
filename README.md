@@ -10,7 +10,7 @@ Sistem web full-stack pentru gestionarea reclamațiilor IT interne ale unei comp
 - ASP.NET Core 8
 - Entity Framework Core
 - SQL Server
-- Swagger / OpenAPI
+- Swagger
 
 **Frontend**
 - React 18 (Vite)
