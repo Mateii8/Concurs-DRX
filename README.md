@@ -1,10 +1,10 @@
-# 🎧 DRX Helpdesk
+#  DRX Helpdesk
 
 Sistem web full-stack pentru gestionarea reclamațiilor IT interne ale unei companii. Angajații pot raporta probleme tehnice, urmări statusul acestora și primi notificări, iar administratorii pot gestiona reclamațiile, angajații, departamentele și asset-urile.
 
 ---
 
-## 🛠️ Tehnologii
+##  Tehnologii
 
 **Backend**
 - ASP.NET Core 8
@@ -20,7 +20,7 @@ Sistem web full-stack pentru gestionarea reclamațiilor IT interne ale unei comp
 
 ---
 
-## 📁 Structura Proiectului
+##  Structura Proiectului
 
 ```
 ProiectDRX/                  # Backend - ASP.NET Core
@@ -53,7 +53,7 @@ proiectdrx-frontend/         # Frontend - React
 
 ---
 
-## 🔐 Autentificare
+##  Autentificare
 
 Aplicația folosește autentificare bazată pe email + parolă, cu roluri stocate în baza de date.
 
@@ -72,7 +72,7 @@ Aplicația folosește autentificare bazată pe email + parolă, cu roluri stocat
 
 ---
 
-## 🚀 Funcționalități
+##  Funcționalități
 
 - ✅ Înregistrare și autentificare cu roluri
 - ✅ Dashboard personalizat per rol (User / Admin)
@@ -87,7 +87,7 @@ Aplicația folosește autentificare bazată pe email + parolă, cu roluri stocat
 
 ---
 
-## 📡 Endpoint-uri principale
+##  Endpoint-uri principale
 
 | Metodă | Endpoint | Descriere |
 |--------|----------|-----------|
@@ -103,7 +103,7 @@ Aplicația folosește autentificare bazată pe email + parolă, cu roluri stocat
 
 ---
 
-## 🗄️ Modele principale
+##  Modele principale
 
 ```
 Employee ──< Complaint ──< ComplaintComment
@@ -115,7 +115,7 @@ Asset ──< Complaint
 
 ---
 
-## 📋 Arhitectură
+##  Arhitectură
 
 Proiectul folosește **Repository Pattern** cu **Unit of Work** pentru accesul la date:
 
